@@ -9,3 +9,9 @@ accounts:
   onCallSupport:
     - (777) 555-1234
     - (777) 523-1345
+  maildetails:
+    hostname: prod-accounts@eazybytes.com
+    port: 9010
+    from: prod-accounts@eazybytes.com
+    subject: "Your Account Details from Eazy Bank Production Environment"
+
