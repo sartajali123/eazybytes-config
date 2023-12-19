@@ -2,16 +2,10 @@ build:
   version: "1.0"
 
 accounts:
-  msg: "Welcome to EazyBank accounts related Prod APIs "
+  message: "Welcome to EazyBank accounts related prod APIs "
   contactDetails:
-    name: "John Doe - QA-Lead"
-    email: "{cipher}2bd64715a475498915b7cb5aa12275ea78aac4072d91537722b20e69f3e6337dc92c62dd70f16b3ef3a1859bcd1620dd"
+    name: "Sandra Harald - Product Owner"
+    email: "sandra@eazybank.com"
   onCallSupport:
-    - (777) 555-1234
-    - (777) 523-1345
-  maildetails:
-    hostname: prod-accounts@eazybytes.com
-    port: 9010
-    from: prod-accounts@eazybytes.com
-    subject: "Your Account Details from Eazy Bank Production Environment"
-
+    - (617) 432-2356
+    - (936) 564-8721
